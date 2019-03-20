@@ -1,0 +1,10 @@
+{"_id":{"$oid":"590101f99f8f9d32b87a267d"},"CountryRegion":"Africa","Quantity":"45432177182Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a267e"},"CountryRegion":"Asia","Quantity":"2226818138047Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a267f"},"CountryRegion":"Central_and_East_Europe_Russia","Quantity":"49391709179Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a2680"},"CountryRegion":"Integrated_Hozei_Ar_Special_Area","Quantity":"3972Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a2681"},"CountryRegion":"Middle_and_South_America","Quantity":"108369566010Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a2682"},"CountryRegion":"Middle_East","Quantity":"92734770816Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a2683"},"CountryRegion":"North_America","Quantity":"352847680309Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a2684"},"CountryRegion":"Oceania","Quantity":"86756782835Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a2685"},"CountryRegion":"Special_Area","Quantity":"1493168Kg"}
+{"_id":{"$oid":"590101f99f8f9d32b87a2686"},"CountryRegion":"Western_Europe","Quantity":"240453732692Kg"}
